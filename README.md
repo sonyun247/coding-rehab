@@ -24,11 +24,11 @@
 **Styling and layout with CSS**
 
 - [x] CSS first steps (10–15 hour read/exercises)
-- [ ] CSS building blocks (35–45 hour read/exercises)
-- [ ] Styling text (15–20 hour read/exercises)
-- [ ] CSS layout (30–40 hour read/exercises)  
+- [x] CSS building blocks (35–45 hour read/exercises)
+- [x] Styling text (15–20 hour read/exercises)
+- [x] CSS layout (30–40 hour read/exercises)  
        **_Additional resources_**
-  - [ ] CSS layout cookbook
+  - [x] CSS layout cookbook
 
 **Interactivity with JavaScript**
 
