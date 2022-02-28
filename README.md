@@ -32,9 +32,9 @@
 
 **Interactivity with JavaScript**
 
-- [ ] JavaScript first steps (30–40 hour read/exercises)
-- [ ] JavaScript building blocks (25–35 hour read/exercises)
-- [ ] Introducing JavaScript objects (25–35 hour read/exercises)
+- [x] JavaScript first steps (30–40 hour read/exercises)
+- [x] JavaScript building blocks (25–35 hour read/exercises)
+- [x] Introducing JavaScript objects (25–35 hour read/exercises)
 - [ ] Client-side web APIs (30–40 hour read/exercises)
 - [ ] Asynchronous JavaScript (25–35 hour read/exercises)
 
