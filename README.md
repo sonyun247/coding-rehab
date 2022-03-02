@@ -35,8 +35,8 @@
 - [x] JavaScript first steps (30–40 hour read/exercises)
 - [x] JavaScript building blocks (25–35 hour read/exercises)
 - [x] Introducing JavaScript objects (25–35 hour read/exercises)
-- [ ] Client-side web APIs (30–40 hour read/exercises)
-- [ ] Asynchronous JavaScript (25–35 hour read/exercises)
+- [x] Client-side web APIs (30–40 hour read/exercises)
+- [x] Asynchronous JavaScript (25–35 hour read/exercises)
 
 **Web forms — Working with user data**
 
