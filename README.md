@@ -40,7 +40,7 @@
 
 **Web forms — Working with user data**
 
-- [ ] Web forms (40–50 hours)
+- [x] Web forms (40–50 hours)
 
 **Making the web work for everyone**
 
