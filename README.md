@@ -44,8 +44,8 @@
 
 **Making the web work for everyone**
 
-- [ ] Cross-browser testing (25–30 hour read/exercises)
-- [ ] Accessibility (20–25 hour read/exercises)
+- [x] Cross-browser testing (25–30 hour read/exercises)
+- [x] Accessibility (20–25 hour read/exercises)
 
 **Modern tooling**
 
