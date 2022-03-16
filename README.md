@@ -52,7 +52,35 @@
 - [ ] Git and GitHub (5 hour read)
 - [x] Understanding client-side web development tools (20–25 hour read)
 - [x] Understanding client-side JavaScript frameworks (30-60 hour read/exercises)  
-        **_Additional resources_**
+       **_Additional resources_**
   - [x] React
-  - [ ] Svelte
+  - [x] Svelte
+  </details>
+
+<details>
+<summary>CS Basic</summary>
+
+- [ ] Data Structure
+- [ ] Algorithm
+</details>
+
+<details>
+<summary>CSS</summary>
+
+- [ ] BEM
+- [ ] PostCss
+- [ ] Tailwind CSS
+</details>
+
+<details>
+<summary>JavaScript</summary>
+
+- [ ] TypeScript
+</details>
+
+<details>
+<summary>React</summary>
+
+- [ ] Gatsby for SSG
+- [ ] Next.js for SSR
 </details>
