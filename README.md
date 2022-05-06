@@ -67,7 +67,7 @@
 <details>
 <summary>CSS</summary>
 
-- [ ] BEM
+- [x] BEM
 - [ ] PostCss
 - [ ] Tailwind CSS
 </details>
@@ -83,4 +83,25 @@
 
 - [ ] Gatsby for SSG
 - [ ] Next.js for SSR
+</details>
+
+<details>
+<summary>Design & UI/UX</summary>
+
+_[Nielsen Norman Group](https://www.nngroup.com/)_
+
+- [x] Figma
+- [x] 디터람스: 디자이너들의 디자이너 - 시즈 드 종
+- [x] 좋아 보이는 것들의 비밀: 브랜드 디자인 - 최영인
+- [x] [UX/UI의 10가지 심리학 법칙 - 존 야블론스키](https://lawsofux.com/)
+- [x] UX 원칙: Uxer를 위한 101가지 원칙 - 윌 그랜트
+- [x] 사용자를 유혹하는 UX의 기술 - 리브 당통 르페브르
+- [x] 버려지는 디자인 통과되는 디자인: 웹&앱 디자인 - 신승희
+- [x] 처음 만나는 피그마 - 송아미
+</details>
+
+<details>
+<summary>ETC</summary>
+
+- [ ] SEO Guide
 </details>
