@@ -69,20 +69,20 @@
 
 - [x] BEM
 - [ ] PostCss
-- [ ] Tailwind CSS
+- [x] Tailwind CSS
 </details>
 
 <details>
 <summary>JavaScript</summary>
 
-- [ ] TypeScript
+- [x] TypeScript
 </details>
 
 <details>
 <summary>React</summary>
 
-- [ ] Gatsby for SSG
-- [ ] Next.js for SSR
+- [x] Gatsby for SSG
+- [x] Next.js for SSR
 </details>
 
 <details>
@@ -98,10 +98,11 @@ _[Nielsen Norman Group](https://www.nngroup.com/)_
 - [x] 사용자를 유혹하는 UX의 기술 - 리브 당통 르페브르
 - [x] 버려지는 디자인 통과되는 디자인: 웹&앱 디자인 - 신승희
 - [x] 처음 만나는 피그마 - 송아미
+- [x] 도널드 노먼의 UX 디자인 특강: 복잡한 세상의 디자인
 </details>
 
 <details>
 <summary>ETC</summary>
 
-- [ ] SEO Guide
+- [x] SEO Guide
 </details>
